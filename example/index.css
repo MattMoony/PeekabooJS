@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+header {
+  padding: 15px 0 20px;
+  border-bottom: 1.25px solid #cecece;
+}
+h1 {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 1.5px;
+  font-family: serif;
+  font-size: 2.5em;
+  font-family: 'Kalam', serif;
+  padding: 0;
+}
+h3 {
+  margin: 0;
+  font-family: monospace;
+  letter-spacing: 6px;
+  text-align: center;
+}
+
+article {
+  width: 60%;
+  margin: 0 auto;
+  padding: 25px 0;
+}
+
+h2 {
+  border-bottom: 1.15px dashed #cecece;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  padding-bottom: 4.5px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+footer {
+  text-align: right;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+.inline-info {
+  background-color: #FFD4D4;
+  padding: 0 1.5px;
+  font-weight: bold;
+  border-bottom: 1.5px solid #FF6161;
+}
+
+.ex-photo {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 150px;
+  height: auto;
+}
